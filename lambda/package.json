@@ -1,0 +1,24 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.426.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-source-map-support": "^1.0.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-runtime": "^6.26.0",
+    "jest": "^24.5.0",
+    "serverless-offline": "^4.9.2",
+    "serverless-webpack": "^5.2.0",
+    "source-map-support": "^0.4.18",
+    "stripe": "^6.28.0",
+    "uuid": "^3.3.2",
+    "webpack": "^4.16.2",
+    "webpack-node-externals": "^1.6.0"
+  }
+}

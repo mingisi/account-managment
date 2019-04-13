@@ -1,0 +1,8 @@
+{
+    "body": "{\"details\":{\"clientEmail\":\"test@test.com\", \"clientName\":\"test2\", \"contactName\":\"test3\", \"contactEmail\":\"test3\", \"contactPartner\":\"test3\", \"manager\":\"test4\", \"fiscalPeriodEnd\":\"test5\", \"tags\":\"test6\", \"notes\":\"test7\"}, \"company\":{\"businessStructure\":\"test1\", \"taxNumber\":\"test2\", \"phone\":\"test3\", \"website\":\"test4\", \"gstRegistered\":\"test5\", \"companyNumber\":\"test6\", \"fax\":\"test7\", \"address\":\"test8\", \"region\":\"test9\", \"postecode\":\"test10\", \"country\":\"test11\"} }",
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "48d87155-b375-4034-8994-b514fde8b7eb"
+        }
+    }
+}
